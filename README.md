@@ -1,4 +1,3 @@
-adelekyriacou.github.io
-=======================
+#Adele's Portfolio
 
-My portfolio
+Hello and welcome to my first ever repo. 
