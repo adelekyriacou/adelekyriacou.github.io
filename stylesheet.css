@@ -1,0 +1,20 @@
+body {
+  font-size: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  background-color: #111;
+  color: #999;
+}
+
+h1 {
+  font-size: 3em;
+  text-transform: uppercase;
+  text-align: centre;
+  letter-spacing: 5px;
+}
+
+p {
+  margin-top: 1em;
+  font-family: Georgia, 'Times New Roman', serif;
+  text-align: center;
+}
