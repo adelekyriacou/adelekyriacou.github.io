@@ -1,5 +1,7 @@
-#Adele's Portfolio
+#Portfolio
 
 Hello and welcome to my first ever repo. 
 
-[Visit](https://adelekyriacou.github.io)
+Here you will find the makings of my portfolio website.
+ 
+[adelekyriacou.com](https://adelekyriacou.github.io)
