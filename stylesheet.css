@@ -4,8 +4,8 @@ body {
 }
 
 h1 {
-  font-size: 400%;
-  padding: 150px 0px 50px 0px;
+  font-size: 200%;
+  padding: 50px 0px 50px 0px;
 }
 
 p, h1 {
@@ -21,4 +21,10 @@ p {
   text-align: center;
 }
 
+@media screen and (min-width: 500px) {
+  h1 {
+    font-size: 400%;
+    padding: 150px 0px 50px 0px;
+  }
+}
 
