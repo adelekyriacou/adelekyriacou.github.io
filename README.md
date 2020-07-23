@@ -1,4 +1,4 @@
-#adelekyriacou.com
+# adelekyriacou.com
 
 Hello and welcome to my first ever repo. 
 
